@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ef90d93c28b6e30724697b113c9c1091\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6328de3edbdbe99f7f6ff13f18c9cc0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\faa39635721de58c4559e1b90b713e18\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f02e104cedc80ec294d08102b2ffd4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e6745b070baf58c95c182fb9a776fcbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e7e415c0a952e2f87b37524201d3811c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\94722acaf04ca400de7f04eb219107f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\24d8472d0b297d65cacbc9d2e0efa4f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c2ab57f74642b55a1191cc9fe1356161\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5737dbf0c42079d6d487a70d7aee23a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\94754d1073a2ca44c3c111b6cf4a3d30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3edf11544b939962f9ff0acbc19fd31f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\212e0f135545ae87e1c91b5db571c202\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\120fb610bb37884fbf367064486a8ac1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba4aca80fbfb7c9d286cc6080d6bdc20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0723ee7fad49a1d18161339e6e7c42cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d13edf0f53488d2564797708ada75e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\410edf8e77805e006e3573c45df06509\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\262b168e130ae9ae0f088d1b82d9da1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\bb9cb4838bba92d77159d57aaad40b30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\18404c802d3bd3ee6203566c405d53ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\376c5ab41f625a5c3257ab4ee7daa250\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:3:5-60
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\faa39635721de58c4559e1b90b713e18\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\faa39635721de58c4559e1b90b713e18\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.androidarchitecture.learn.noteapplication.MainActivity
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.androidarchitecture.learn.noteapplication.NewNoteActivity
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:22:19-50
+activity#com.androidarchitecture.learn.noteapplication.EditNoteActivity
+ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml:23:19-51
+uses-sdk
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ef90d93c28b6e30724697b113c9c1091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ef90d93c28b6e30724697b113c9c1091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6328de3edbdbe99f7f6ff13f18c9cc0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6328de3edbdbe99f7f6ff13f18c9cc0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\faa39635721de58c4559e1b90b713e18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\faa39635721de58c4559e1b90b713e18\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f02e104cedc80ec294d08102b2ffd4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f02e104cedc80ec294d08102b2ffd4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e6745b070baf58c95c182fb9a776fcbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e6745b070baf58c95c182fb9a776fcbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e7e415c0a952e2f87b37524201d3811c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e7e415c0a952e2f87b37524201d3811c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\94722acaf04ca400de7f04eb219107f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\94722acaf04ca400de7f04eb219107f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\24d8472d0b297d65cacbc9d2e0efa4f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\24d8472d0b297d65cacbc9d2e0efa4f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c2ab57f74642b55a1191cc9fe1356161\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c2ab57f74642b55a1191cc9fe1356161\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5737dbf0c42079d6d487a70d7aee23a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5737dbf0c42079d6d487a70d7aee23a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\94754d1073a2ca44c3c111b6cf4a3d30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\94754d1073a2ca44c3c111b6cf4a3d30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3edf11544b939962f9ff0acbc19fd31f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3edf11544b939962f9ff0acbc19fd31f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\212e0f135545ae87e1c91b5db571c202\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\212e0f135545ae87e1c91b5db571c202\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\120fb610bb37884fbf367064486a8ac1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\120fb610bb37884fbf367064486a8ac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba4aca80fbfb7c9d286cc6080d6bdc20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba4aca80fbfb7c9d286cc6080d6bdc20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0723ee7fad49a1d18161339e6e7c42cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0723ee7fad49a1d18161339e6e7c42cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d13edf0f53488d2564797708ada75e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d13edf0f53488d2564797708ada75e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\410edf8e77805e006e3573c45df06509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\410edf8e77805e006e3573c45df06509\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\262b168e130ae9ae0f088d1b82d9da1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\262b168e130ae9ae0f088d1b82d9da1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\bb9cb4838bba92d77159d57aaad40b30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\bb9cb4838bba92d77159d57aaad40b30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\18404c802d3bd3ee6203566c405d53ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\18404c802d3bd3ee6203566c405d53ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\376c5ab41f625a5c3257ab4ee7daa250\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\376c5ab41f625a5c3257ab4ee7daa250\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Muhammad Waqar\Desktop\react\Lab11\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Muhammad Waqar\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\20a74f2478b8e27d422bba69b08e9fc7\AndroidManifest.xml:24:13-83
